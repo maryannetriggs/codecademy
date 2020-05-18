@@ -13,7 +13,7 @@ for (let inputIndex = 0; inputIndex < input.length ; inputIndex++) {
             resultArray.push("uu");           
     } else {
       resultArray.push(input[inputIndex]);
-    	}
+    }
       }
     }
   };
